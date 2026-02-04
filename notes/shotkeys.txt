@@ -1,1 +1,2 @@
-CTRL + K +  C for mutiple comments
+CTRL + K +  C for multiple comments
+CTRL + K +  U for multiple uncomment
